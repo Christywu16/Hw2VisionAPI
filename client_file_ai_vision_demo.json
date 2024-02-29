@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "fairalgo",
+  "private_key_id": "c0df03c9263a615e928b5886138328553a91bd8f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDjVK5Udtf+8NQB\nNCL6y5RvESRq7QoLg3NYKm5ZaJ6Qa1gVy8hTRNLaUQBoTD7s2hoCRD3SN0L0E8Ko\n8QBgclebiHvwLmYL0cZseOP9VEBOOrnAhPCjXcsRTmv6jSOnrNkuNV8Frb3ntJT2\n+gi28KHYUI64FAPk+ZuGaSzSTy+M+cjXdLPXjA1B+UlaG0OQLaeZGlY7b6UB08ZF\nLOJkb9ioDeMDOE/GEcdKF2/Qc6WzryQsQ4IwW3por9Kb74UlKGOtKNIX1eUF1Y2G\nhWEQt6mbh+mo7VCbVIOMbHf9CTlCpzvUkC8K/R9BQj/wWP5Fd7FYcGnILgSDfaWC\n4w6vWWmTAgMBAAECggEAKNGCMeFa/EhS0NqDM2QNhXne/6ILTTDvq5OG19/8pLLZ\nkKRUFnuDnravq4qRO+cXh3OoZBAPIhNQPxRy/F5bk65IjsJOCW5DwiNc0JZpq4JI\n6yQTr0m+lh9uLQFdtxRGtNDZfIQLVsjqfIQ9v1dqwBQK5EuXvWwCPHqzFRop0BaN\nEtvRsiQL5YpwesBHbI5hYRpkU6buaA1hgEYscLm2Y0RlwXfs11nP+2i1OunLCtIP\nYOCp3OoHYDRDvpTHLbmdiC2ODOvDOK+L4SmYaIJOQIZz0hjaPhwvOXfWLHssOctg\nM7wJEjHHsh/XW4TNAycQmEvKZG7m0bhzer39R5NYPQKBgQDx6q/qZbeHMsdqS4YW\nZoJw0L46PXithmSH6GoaUeZKBJ0MO/8zwt/LEZ6joFlsj7JreX/97mQVC2dnI59w\n3CA272XQKQBK5vXpaqjFZ4P2NSoiVTnJKscDpu/x9ihS3Jeb/k9OBdGL3l/K5hw6\nduUI8ybgMaagfzRaOPXcXXqxnQKBgQDwkJ4YQJ2PLDglq0QrIdzyax+h5yj4DFOM\nbRsXMmpsbe22Ep8UFnSwbszo3neH2NrKXVTjWKt/dxH39IWDq4J5j+PJgF4OXmGJ\nqUpcEb16teAzw0n3m7+gVydyu/re6m0VTLxoO3wBd8HvIZOsvKf2Fc73dLcop/Ep\nMdsCUPx47wKBgH6m9tiJzk7698ofpiC+JFZ6As2s9ywp6yH4POxwqldgGPSZyJ9J\nzC6dl+dkgMzEYo2/+5FvKHiYEte9n7DPnhIEvdIAVUXhqyc8DwXijwTsipWU9v7p\n5W11DbQowq23Day+tLhNdYp7rr0kQe0d6AUKf/TqKalnT3pYzedEDYNFAoGAHZqe\nafuhqBnX+wK9i9VJ/GckaGcrCoNx0KkomU0x/Y/1nd9ixjURPRkVjF68NPKB0j90\nD9o8mJ4Njwb/WznC/7SuYoCyknAY7rjvlq70M2KoaZZRxu/awB+ZkiwB7mbI78MW\nuHkBhKi5K/Vk1/ALd2QtqRQq6gzox5oECp/uwe8CgYEA6wgoUNgkWVOohr/H4+Y8\nhqpJIIeUppRabSDm9TvNVyQRw9JgZPzKjfGZQXIBrO/cV1MARois12+vuEJPccTn\n3+mEOd2zS7kdaQHz0xhXNh1zZpvnnxUqb5lOrp7gk1OamgwQ+dgePgFEhQmUSWON\nksfxUKkiQT5KrV4tIa+Y72k=\n-----END PRIVATE KEY-----\n",
+  "client_email": "google-cloud-vision-quickstart@fairalgo.iam.gserviceaccount.com",
+  "client_id": "101575384508282665791",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/google-cloud-vision-quickstart%40fairalgo.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
